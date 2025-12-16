@@ -69,19 +69,3 @@ The design allows future expansion with IoT and sensor-based feedback mechanisms
 
 ---
 
-## 📄 Documentation
-Detailed project reports, circuit diagrams, and related documents are available in the **docs/** folder.
-
----
-
-## 🤝 Acknowledgements
-This project was developed as part of an academic initiative focused on healthcare innovation and Industry 4.0 concepts.
-
----
-
-## 📬 Contact
-For queries, suggestions, or collaboration, please use **GitHub Issues** or submit a **Pull Request**.
-
----
-
-⭐ If you find this project useful, consider giving it a star!
